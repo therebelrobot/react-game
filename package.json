@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/therebelrobot/react-game/issues"
   },
-  "homepage": "https://github.com/therebelrobot/react-game#readme"
+  "homepage": "https://github.com/therebelrobot/react-game#readme",
+  "dependencies": {
+    "@emotion/core": "^10.0.10",
+    "color": "2.0.1",
+    "create-keyframes": "^1.0.1",
+    "lodash": "4.17.11",
+    "numeral": "^2.0.6",
+    "popmotion": "^8.6.0",
+    "react-hanger": "^1.1.2",
+    "react-portal": "^4.2.0",
+    "react-transition-group": "^2.5.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
 }
