@@ -1,0 +1,19 @@
+{
+  "name": "react-game",
+  "version": "0.0.1",
+  "description": "A modern game-kit, leveraging Matter.js and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/therebelrobot/react-game.git"
+  },
+  "author": "Aster Haven <npm@therebelrobot.com> (@therebelrobot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/react-game/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/react-game#readme"
+}
